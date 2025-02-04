@@ -14,7 +14,7 @@ the sources of these datasets.
 3. Exploratory Data Analysis: Perform EDA on the Berkeley Earth dataset to understand climate trends over time. Analyze temperature patterns, seasonal variations, and long-term trends. Additionally, conduct inter-dataset EDA between the Berkeley Earth dataset and the other two datasets to explore correlations and patterns.
 4. Dashboard Creation: Create a minimum of TWO Tableau stories, with each story containing multiple dashboards. Each story should address specific research questions and insights derived from your analysis.
 5. Beautiful Dashboard Designs: Emphasize creating aesthetically pleasing dashboards with thoughtful design elements.
-6. Compelling and Insightful Visual Storytelling (20 Marks): Use Tableau's storytelling feature to create compelling visual stories for each research question. These visual stories should guide the user through your analysis process, highlight key insights, and provide explanations for the visualizations.
+6. Compelling and Insightful Visual Storytelling : Use Tableau's storytelling feature to create compelling visual stories for each research question. These visual stories should guide the user through your analysis process, highlight key insights, and provide explanations for the visualizations.
 7. Documentation: Create a PDF document that outlines the questions you addressed, the rationale behind your analysis, and your overall analytical process. Clearly reference the datasets used.
 
 
